@@ -1,0 +1,9 @@
+Name: Folder1
+Type: FolderType
+Children:
+- Name: Object1
+  Type: BaseObjectType
+- Name: Variable1
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
